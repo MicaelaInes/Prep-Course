@@ -1,0 +1,10 @@
+Variables: Almacenan un valor para luego utilizarlo
+
+Strings: Hilo de caracteres, va siempre entre ''
+
+Funciones (argumentos, return): Agrupa codigos (que uso muchas veces) los guarda 
+y despues podemos utilizarlos.
+
+Declaraciones if: Toma decisiones evaluando desde la logica
+
+Valores booleanos (true, false): Significa que tiene dos opciones
