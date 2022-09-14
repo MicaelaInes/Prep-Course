@@ -1,0 +1,9 @@
+For: es un bucle que consiste de poner entre parentesis tres expresiones.
+Primero declaramos una variable, luego una condicion y por ultimo incrementamos la variable.
+
+&&:(y o and) Es un operador logico, que funciona evaluando ambas expresiones y si son verdaderas devuelve true
+y si son falsas devuelve false
+
+||: (o u or) Operador logico devuelve true si una es verdaderas
+
+!: (no o not) Operador logico negacion devuelve el valor booleano opuesto
