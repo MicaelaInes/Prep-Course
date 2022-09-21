@@ -1,0 +1,12 @@
+Objetos: Coleccion de propiedades
+
+Propiedades: Es una asociacion entre nombres (o clave) y un valor
+
+Métodos: Son funciones que sirven para agrupar codigos
+
+Bucle for…in Los objetos no tiene indice numerico por lo qyue no se puede usar el for estandar
+y se utiliza el for in, segenera una variable con la palabra clave luego in y el nombre del objeto
+esto recorrera cada clave del objeto y finalizara
+
+Notación de puntos vs notación de corchetes: se pueden utilizar cualquiera de las dos. Cuando utilizamos 
+el punto la propiedad va sin comillas y cuando usamos corchetes con comillas 
