@@ -1,0 +1,3 @@
+prototype: Las clases tienen una unica forma de establecer  un metodo una vez y dar accesos a cada objeto de esa clase
+a esos metodos
+Constructors (de Clases): Crear muchos objetos que comparten las mismas propiedades y metodos
