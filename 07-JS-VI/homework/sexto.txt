@@ -1,0 +1,1 @@
+Funciones Callback: se llama asi a una funcion que es argumento de otra funcion
